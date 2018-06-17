@@ -60,3 +60,19 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+gem 'wicked_pdf'
+gem 'wkhtmltopdf-binary'
+gem 'devise'
+gem 'rails_autolink'
+gem 'materialize-sass'
+gem 'material_icons'
+gem 'jquery-rails'
+gem 'hirb'
+gem 'hirb-unicode'
+gem 'seed-fu'
+gem 'paperclip'
+gem 'paperclip-rack', require: 'paperclip/rack'
+gem 'kaminari'
+gem 'rails-assets-sweetalert2', '~> 5.1.1', source: 'https://rails-assets.org'
+gem 'sweet-alert2-rails'
